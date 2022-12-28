@@ -2,6 +2,11 @@
 
 > Full stack Django/React/Redux app that uses token based authentication with Knox.
 
+# use pipenv
+
+# upgrade pip
+
+
 ## Quick Start
 
 ```bash
